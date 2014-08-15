@@ -1,0 +1,4 @@
+rgparse==1.2.1
+nose==1.3.3
+python-openid==2.2.5
+wsgiref==0.1.2
